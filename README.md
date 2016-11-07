@@ -1,4 +1,4 @@
 # demo_git
 Une démo de git qui se passe bien
 
-Modification depuis github mais aussi depuis mon local
+Modification depuis github mais aussi depuis mon local et aussi depuis github
